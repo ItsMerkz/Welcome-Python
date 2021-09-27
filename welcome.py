@@ -1,0 +1,7 @@
+print("Hello, Welcome")
+name = input("Whats Your Name: ")
+print("Hi " + name)
+print("Nice To Meet You, My Name Is Merkz-Dev")
+print("Anyway, I'm Off To Code Now")
+print("Hey, Before I Go, Make Sure To Check Out My GitHub Profile For The Source Of This File!")
+print("https://github.com/Merkz-Dev/Welcome-Python/")
